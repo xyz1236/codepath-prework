@@ -2,8 +2,7 @@
 
 Submitted by: **Maggie Lin**
 
-**BackGround Changer** is an app that allows users to change the app's background when the button option is clicked. Each time the button is clicked, it will change  
-to a different color.
+**BackGround Changer** is an app that allows users to change the app's background when the button option is clicked. Each time the button is clicked, it will change to a different color.
 
 Time spent: **2.5** hours spent in total
 
@@ -33,10 +32,8 @@ Amazon
 - [ ] Can track my package in real life time
 - [ ] Categorize my purchase by year
 
-XMessage
-I want to build an app where people can share their thoughts anonymously. Whether if a person is stressed or that they are sad, they are free to express their  
-feelings on XMessage. Once their message is posted on the app, they will receive a reply from another user. Both users will not be able to know each others personal  
-information, but rather, they can only send messages. This app aim to provide a form of mental support from an online world.  
+XMessage  
+I want to build an app where people can share their thoughts anonymously. Whether if a person is stressed or that they are sad, they are free to express their feelings on XMessage. Once their message is posted on the app, they will receive a reply from another user. Both users will not be able to know each others personal information, but rather, they can only send messages. This app aim to provide a form of mental support from an online world.  
 Some of the app features includes:  
 - Post messages
 - Texting users
